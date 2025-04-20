@@ -1,0 +1,16 @@
+C:\Users\Danie\source\repos\Power\bin\Release\net8.0-windows\win-x64\Power.exe
+C:\Users\Danie\source\repos\Power\bin\Release\net8.0-windows\win-x64\Power.deps.json
+C:\Users\Danie\source\repos\Power\bin\Release\net8.0-windows\win-x64\Power.runtimeconfig.json
+C:\Users\Danie\source\repos\Power\bin\Release\net8.0-windows\win-x64\Power.dll
+C:\Users\Danie\source\repos\Power\bin\Release\net8.0-windows\win-x64\Power.pdb
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.Form1.resources
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.csproj.GenerateResource.cache
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.AssemblyInfoInputs.cache
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.AssemblyInfo.cs
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.csproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.dll
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\refint\Power.dll
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.pdb
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\Power.genruntimeconfig.cache
+C:\Users\Danie\source\repos\Power\obj\Release\net8.0-windows\win-x64\ref\Power.dll

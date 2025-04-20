@@ -1,0 +1,3 @@
+Apagado=Desactivado
+Inactividad=Activado
+Tiempo_Inactividad=60

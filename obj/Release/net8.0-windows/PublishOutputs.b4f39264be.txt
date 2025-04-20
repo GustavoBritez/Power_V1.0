@@ -1,0 +1,5 @@
+C:\Users\Danie\Desktop\Power\Power.exe
+C:\Users\Danie\Desktop\Power\Power.dll
+C:\Users\Danie\Desktop\Power\Power.deps.json
+C:\Users\Danie\Desktop\Power\Power.runtimeconfig.json
+C:\Users\Danie\Desktop\Power\Power.pdb

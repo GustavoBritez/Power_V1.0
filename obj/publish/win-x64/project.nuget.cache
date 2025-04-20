@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZphKHpesoM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danie\\source\\repos\\Power\\Power.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

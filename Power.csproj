@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>ROJO_1.ico</ApplicationIcon>
+    <PackageIcon>ROJO_1.ico</PackageIcon>
+    <Company>Gustavo Daniel Britez Alvarenga</Company>
+    <Description>Este programa sirve para programar un apagado del equipo
+</Description>
+    <Copyright>Copyright 2025</Copyright>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <Authors>Gustavo Daniel Britez Alvarena</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ROJO_1.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Downloads\ROJO_1.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
